@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I am pretty new to swift and app development. And I am not confident developing apps on my own at this stage but I am really interested in this field and would love to learn more from CodePath!!
 
 ## License
 
